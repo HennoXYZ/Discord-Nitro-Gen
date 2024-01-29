@@ -1,0 +1,13 @@
+INSTALATION
+
+1- download python
+2- install pip
+3- write "pip install requests" in cmd
+
+
+HOW TO USE
+
+if you want this operation to be auto open "app.py" but this may couse some problems
+if you want to make it safely open "generator.py" this will write codes on "nitros.txt"
+then open "check.py" to check the codes that which one is avalible!
+
